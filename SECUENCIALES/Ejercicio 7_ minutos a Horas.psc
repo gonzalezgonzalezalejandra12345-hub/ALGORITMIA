@@ -5,7 +5,6 @@ Proceso minutosaHoras
 		// aqui pido los datos por teclado
 		Escribir 'ingrese los minutos";
 		Leer minutos;
-		
 		// aqui aplico la formula minutos a hora
 		horas <- minutos/60;
 		// aqui muestro el resultado
